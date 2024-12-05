@@ -6,13 +6,20 @@ a:link {
   color: white;
   background-color: transparent;
   text-decoration: none;
+  font-family: system-ui;
+  font-size: 20px;
 }
 a:visited {
   color: white;
   background-color: transparent;
   text-decoration: none;
+  font-family: system-ui;
+  font-size: 20px;
 }
 a:hover {
   color: pink;
   background-color: transparent;
   text-decoration: none;
+  font-family: system-ui;
+  font-size: 20px;
+}
